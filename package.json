@@ -3,12 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@ant-design/icons": "^5.3.7",
+    "@babel/plugin-transform-async-generator-functions": "^7.24.7",
+    "@babel/plugin-transform-logical-assignment-operators": "^7.24.7",
+    "@babel/plugin-transform-object-rest-spread": "^7.24.7",
+    "@babel/plugin-transform-optional-catch-binding": "^7.24.7",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.7.2",
     "react": "^18.3.1",
+    "react-chat-engine": "^1.11.28",
     "react-dom": "^18.3.1",
     "react-scripts": "5.0.1",
+    "rimraf": "^6.0.1",
+    "url-search-params": "^1.1.0",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
